@@ -1,0 +1,3662 @@
+[
+    {
+        "id": 1,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following has proved helpful in preserving pollen as fossils?",
+            "options": {
+                "a": "Pollenkitt",
+                "b": "Cellulosic intine",
+                "c": "Sporopollenin",
+                "d": "Oil content"
+            },
+            "year": 2018,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Sporopollenin cannot be degraded by enzymes, strong acids, or alkali, therefore it is helpful in preserving pollen as fossils."
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "It is much easier for a small animal to run uphill than for a large animal, because",
+            "options": {
+                "a": "it is easier to carry a small body weight.",
+                "b": "smaller animals have a higher metabolic rate.",
+                "c": "small animals have a lower O2 requirement.",
+                "d": "the efficiency of muscles in large animals is less than in the small animals."
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Basal metabolic rate is inversely proportional to body size, so smaller animals have a higher metabolic rate. Hence, the production of energy is more."
+        }
+    },
+    {
+        "id": 3,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following aspects is an exclusive characteristic of living things?",
+            "options": {
+                "a": "Isolated metabolic reactions occur in vitro",
+                "b": "Increase in mass from inside only",
+                "c": "Perception of events happening in the environment and their memory",
+                "d": "Increase in mass by accumulation of material both on surface as well as internally."
+            },
+            "year": "2011M",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "All living things have an ability to respond to their environment (called stimulation or responsiveness) and possess memory."
+        }
+    },
+    {
+        "id": 4,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Biological organisation starts with",
+            "options": {
+                "a": "cellular level",
+                "b": "organismic level",
+                "c": "atomic level",
+                "d": "submicroscopic molecular level"
+            },
+            "year": 2007,
+            "difficulty": "Difficult"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Biological organisms start with the submicroscopic molecular level like viruses, bacteria, etc."
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for",
+            "options": {
+                "a": "interaction with the environment and progressive evolution",
+                "b": "reproduction",
+                "c": "growth and movement",
+                "d": "responsiveness to touch."
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Among the options, reproduction is the only difference that differentiates living beings from non-living things without any exception."
+        }
+    },
+    {
+        "id": 6,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Angiosperms have dominated the land flora primarily because of their",
+            "options": {
+                "a": "power of adaptability in diverse habitat",
+                "b": "property of producing large number of seeds",
+                "c": "nature of self pollination",
+                "d": "domestication by man"
+            },
+            "year": 2004,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Angiosperms have adapted themselves to all kinds of habitats\u00e2\u20ac\u201dterrestrial, aquatic, tropical, deciduous, and alpine. Self-pollination is seen in very few angiosperms. Production of a large number of seeds ensures that at least some will germinate. Not all plants have been domesticated by man."
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Organisms which obtain energy by the oxidation of reduced inorganic compounds are called",
+            "options": {
+                "a": "photoautotrophs",
+                "b": "chemoautotrophs",
+                "c": "saprozoic",
+                "d": "coproheterotrophs"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "The organisms obtaining energy by chemical reactions independent of light are called chemotrophs. When the reductants obtained from the environment are in inorganic form, the organisms are called chemoautotrophs. If they are organic, then the organisms are chemoheterotrophs."
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "What is true for photolithotrops?",
+            "options": {
+                "a": "Obtain energy from radiations and hydrogen from organic compounds",
+                "b": "Obtain energy from radiations and hydrogen from inorganic compounds",
+                "c": "Obtain energy from organic compounds",
+                "d": "Obtain energy from inorganic compounds"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Photolithotrophs manufacture their own organic nutrients from inorganic raw materials $(\\mathrm{H}_2, \\mathrm{O}_2)$ with the help of radiation energy. Examples include purple bacteria, green bacteria, and Cyanobacteria. Purple and green bacteria oxidize sulfide, sulfur, sulfite, iron or hydrogen."
+        }
+    },
+    {
+        "id": 9,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "First life on earth was",
+            "options": {
+                "a": "Cyanobacteria",
+                "b": "Chemoheterotrophs",
+                "c": "Autotrophs",
+                "d": "Photoautotrophs"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "First life on earth was chemoheterotroph. These were formed in the environment of the sea having abundant organic molecules. They absorbed the organic materials for the sake of nutrition and hence were chemoheterotrophs."
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The most important feature of all living systems is to",
+            "options": {
+                "a": "utilize oxygen to generate energy",
+                "b": "replicate the genetic information",
+                "c": "produce gametes",
+                "d": "utilize solar energy for metabolic activities"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Replication of the genetic information causes transfer of genetic information from one generation to the next."
+        }
+    },
+    {
+        "id": 11,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The book Genera Plantarum was written by",
+            "options": {
+                "a": "Bessy",
+                "b": "Hutchinson",
+                "c": "Engler and Prantl",
+                "d": "Bentham & Hooker"
+            },
+            "year": 1999,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Bentham & Hooker wrote the book Genera Plantarum. This work was begun in 1862 and concluded in 1883 in collaboration with Sir Joseph Dalton Hooker."
+        }
+    },
+    {
+        "id": 12,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Study of fossils is",
+            "options": {
+                "a": "palaeontology",
+                "b": "herpetology",
+                "c": "saurology",
+                "d": "organic evolution"
+            },
+            "year": 1991,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Palaentology is the branch of zoology concerned with the study of fossils."
+        }
+    },
+    {
+        "id": 13,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Homeostasis is organism's",
+            "options": {
+                "a": "tendency to change with change in environment",
+                "b": "tendency to resist change",
+                "c": "disturbance in regulatory control",
+                "d": "plants and animal extracts used in homeopathy"
+            },
+            "year": 1991,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Homeostasis is the property of all living beings, which is a self-regulatory mechanism of maintaining favorable internal conditions for uninterrupted chemical reactions in the living system despite the changes in the external environment. E.g., in winter the skin contracts to conserve body heat."
+        }
+    },
+    {
+        "id": 14,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Employment of hereditary principles in the improvement of human race is",
+            "options": {
+                "a": "Euthenics",
+                "b": "Eugenics",
+                "c": "Euphenics",
+                "d": "Ethnology"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Eugenics is the science that deals with factors (such as principles of genetics) related to the improvement of the human race. Improvement of race is positive eugenics and if factors are impaired, then it is negative eugenics. Ethnology is the study of different races of mankind, their distribution, relationship, and activities. Euphenics is the study of body functions and treatment of heredity defects through medical means, i.e., genetic engineering. Euthenics is the science which improves the condition of life and the environment of human being."
+        }
+    },
+    {
+        "id": 15,
+        "topic": "Characteristics of Living Organisms",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Static concept of species was put forward by",
+            "options": {
+                "a": "de Candolle",
+                "b": "Linnaeus",
+                "c": "Theophrastus",
+                "d": "Darwin"
+            },
+            "year": 1988,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Carolus Linnaeus introduced the Binomial System of Nomenclature in his book Species Plantarum (1753). He said that there can be variation within species, but they do not change from one species to another."
+        }
+    },
+    {
+        "id": 16,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following is against the rules of ICBN?",
+            "options": {
+                "a": "Generic and specific names should be written starting with small letters.",
+                "b": "Hand written scientific names should be underlined.",
+                "c": "Every species should have a generic name and a specific epithet.",
+                "d": "Scientific names are in Latin and should be italized."
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "The first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter. In plant nomenclature (ICBN), tautonyms are not valid (i.e., generic name and specific name should not be the same in plants), but tautonyms are valid for animal nomenclature (ICZN)."
+        }
+    },
+    {
+        "id": 17,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus:",
+            "options": {
+                "a": "Mangifera indica Car. Linn.",
+                "b": "Mangifera indica Linn.",
+                "c": "Mangifera indica",
+                "d": "Mangifera Indica"
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "According to the rules of binomial nomenclature, the correctly written scientific name of mango is Mangifera indica Linn. Mangifera indicates the 'genus' while indica represents a particular species or 'specific epithet' and Linn indicates the Biologist Linnaeus who first described the species of mango."
+        }
+    },
+    {
+        "id": 18,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?",
+            "options": {
+                "a": "Biological names can be written in any language",
+                "b": "The first word in a biological name represents the genus name, and the second is a specific epithet",
+                "c": "The names are written in Latin and are italicised",
+                "d": "When written by hand, the names are to be underlined"
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Binomial nomenclature is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from other languages."
+        }
+    },
+    {
+        "id": 19,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The common characteristics between tomato and potato will be maximum at the level of their",
+            "options": {
+                "a": "Genus",
+                "b": "Family",
+                "c": "Order",
+                "d": "Division"
+            },
+            "year": "NEET Kar. 2013",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Families are characterised on the basis of both vegetative and reproductive features of plant species. Tomato (Lycopersicon esculentum) and potato (Solanum tuberosum) belong to the same family Solanaceae."
+        }
+    },
+    {
+        "id": 20,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following organisms is scientifically correctly named, correctly printed according to the International Rules of Nomenclature and correctly described?",
+            "options": {
+                "a": "Musca domestica - The common house lizard, a reptile.",
+                "b": "Plasmodium falciparum - A protozoan pathogen causing the most serious type of malaria.",
+                "c": "Felis tigris - The Indian tiger, well protected in Gir forests.",
+                "d": "E.coli - Full name Entamoeba coli, a commonly occurring bacterium in human intestine."
+            },
+            "year": "2012M",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Plasmodium falciparum is a protozoan pathogen that causes the most serious type of malaria (falciparum malaria). Musca domestica is a house fly, an insect belonging to phylum Arthropoda. Felis tigris (the Bengal tiger) is well protected in Sundarbans (tiger reserve). E.coli's full name is Escherichia coli, a commonly occurring bacterium in the human intestine."
+        }
+    },
+    {
+        "id": 21,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following animals is correctly matched with its particular named taxonomic category?",
+            "options": {
+                "a": "Tiger - tigris, the species",
+                "b": "Cuttle fish - mollusca, a class",
+                "c": "Humans - primata, the family",
+                "d": "Housefly - musca, an order"
+            },
+            "year": 2011,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "The species name of the Tiger is tigris (Genus: Panthera)."
+        }
+    },
+    {
+        "id": 22,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "ICBN stands for",
+            "options": {
+                "a": "International Code of Botanical Nomenclature",
+                "b": "International congress of Biological Names",
+                "c": "Indian Code of Botanical Nomenclature",
+                "d": "Indian Congress of Biological Names."
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "ICBN stands for International Code of Botanical Nomenclature. It is one of the codes of nomenclature which is independent of zoological and bacteriological nomenclature. The code applies equally to names of taxonomic groups treated as plants."
+        }
+    },
+    {
+        "id": 23,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Phenetic classification is based on",
+            "options": {
+                "a": "sexual characteristics",
+                "b": "the ancestral lineage of existing organisms",
+                "c": "observable characteristics of existing organisms",
+                "d": "dendograms based on DNA characteristics"
+            },
+            "year": "2003, 04",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Phenetic classification is based upon the observable characteristics of an organism. Phylogenetic system of classification is a system indicating the evolutionary or phylogenetic relationship of organisms."
+        }
+    },
+    {
+        "id": 24,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Biosystematics aims at",
+            "options": {
+                "a": "identification and arrangement of organisms on the basis of their cytological characteristics",
+                "b": "the classification of organisms based on broad morphological characters",
+                "c": "delimiting various taxa of organisms and establishing their relationships",
+                "d": "the classification of organisms based on their evolutionary history and establishing their phylogeny on the totality of various parameters from all fields of studies"
+            },
+            "year": 2003,
+            "difficulty": "Difficult"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Biosystematics is the study of the diversity of organisms and all their comparative and evolutionary relationships. It is the science through which life forms are discovered, identified, described, named, classified, and catalogued, with their diversity, life histories, living habits, roles in an ecosystem, and spatial and geographical distributions recorded."
+        }
+    },
+    {
+        "id": 25,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Species are considered as",
+            "options": {
+                "a": "real units of classification devised by taxonomists",
+                "b": "real basic units of classification",
+                "c": "the lowest units of classification",
+                "d": "artificial concept of human mind which cannot be defined in absolute terms"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Species is the lowest or basic taxonomic category comprising of one or more natural populations of individuals that interbreed freely. While it is the basic unit (b), the question asks what they are considered, and the lowest unit of classification is a more precise description."
+        }
+    },
+    {
+        "id": 26,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "What is true for individuals of same species?",
+            "options": {
+                "a": "Live in same niche",
+                "b": "Live in same habitat",
+                "c": "Interbreeding",
+                "d": "Live in different habitat"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Individuals of the same species can interbreed. No two individuals share the same ecological niche."
+        }
+    },
+    {
+        "id": 27,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The practical purpose of classification of living organisms is to",
+            "options": {
+                "a": "explain the origin of living organisms",
+                "b": "trace the evolution of living organisms",
+                "c": "name the living organisms",
+                "d": "facilitate identification of unknown organisms"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Biological classification is the scientific arrangement of organisms in a hierarchical series of groups and subgroups on the basis of similarities and differences in their traits. It helps in building evolutionary pathways and in identifying new organisms."
+        }
+    },
+    {
+        "id": 28,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A taxon is",
+            "options": {
+                "a": "a group of related families",
+                "b": "a group of related species",
+                "c": "a type of living organisms",
+                "d": "a taxonomic group of any ranking"
+            },
+            "year": "1990, 91, 92, 96",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "A taxon is a taxonomic group of any rank. E.g., Family, Genus, Species, etc."
+        }
+    },
+    {
+        "id": 29,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Binomial nomenclature was introduced by",
+            "options": {
+                "a": "de Vries",
+                "b": "Carlous Linnaeus",
+                "c": "Huxley",
+                "d": "John Ray"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Binomial nomenclature, also called binominal nomenclature or binary nomenclature, is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms."
+        }
+    },
+    {
+        "id": 30,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Species is a",
+            "options": {
+                "a": "unit of classification",
+                "b": "unit in the evolutionary history of a tree",
+                "c": "specific class of evolution",
+                "d": "not related to evolution"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Species is the basic unit of classification. It is defined as a group of natural population whose members can interbreed among themselves and are reproductively isolated from other such groups."
+        }
+    },
+    {
+        "id": 31,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Binomial nomenclature consists of two words",
+            "options": {
+                "a": "Genus and species",
+                "b": "Order and family",
+                "c": "Family and genus",
+                "d": "Species and variety"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Binomial nomenclature consists of two words: genus and species. The first word denotes the genus name, and the second word denotes the species name."
+        }
+    },
+    {
+        "id": 32,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "\"Taxonomy without phylogeny is similar to bones without flesh\" is the statement of",
+            "options": {
+                "a": "Oswald Tippo",
+                "b": "John Hutchinson",
+                "c": "Takhtajan",
+                "d": "Bentham and Hooker"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The statement was given by Armen Leonovich Takhtajan, a Soviet-Armenian botanist, one of the most important figures in 20th century plant evolution and systematics and biogeography."
+        }
+    },
+    {
+        "id": 33,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Binomial nomenclature means",
+            "options": {
+                "a": "one name given by two scientists",
+                "b": "one scientific name consisting of a generic and specific epithet",
+                "c": "two names, one latinised, other of a person",
+                "d": "two names of same plant"
+            },
+            "year": 1993,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Binomial nomenclature means the scientific name of any organism consists of a generic and a specific epithet. The generic name starts with a capital letter and the specific name with a small letter. Both the names are in Italics when printed, or underlined in manuscripts."
+        }
+    },
+    {
+        "id": 34,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Linnaeus is credited with",
+            "options": {
+                "a": "binomial nomenclature",
+                "b": "theory of biogenesis",
+                "c": "discovery of microscope",
+                "d": "discovery of blood circulation"
+            },
+            "year": 1993,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Linnaeus is credited with introducing Binomial Nomenclature."
+        }
+    },
+    {
+        "id": 35,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The term phylum was given by",
+            "options": {
+                "a": "Cuvier",
+                "b": "Haeckel",
+                "c": "Theophrastus",
+                "d": "Linnaeus"
+            },
+            "year": 1992,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Cuvier, the father of modern palaeontology, introduced the term \"phylum.\" A phylum is a level of classification below kingdom and above class. Traditionally, in botany, the term division has been used instead of phylum, although the International Code of Nomenclature for algae, fungi, and plants accepts the terms as equivalent."
+        }
+    },
+    {
+        "id": 36,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Sequence of taxonomic categories is",
+            "options": {
+                "a": "Class-Phylum - Tribe - Order - Family - Genus - Species",
+                "b": "Division-Class-Family - Tribe - Order - Genus - Species",
+                "c": "Division-Class - Order - Family - Tribe - Genus - Species",
+                "d": "Phylum-Order - Class - Tribe - Family - Genus - Species"
+            },
+            "year": 1992,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The various obligate categories in hierarchical classification are Division $\\rightarrow$ Class $\\rightarrow$ Order $\\rightarrow$ Family $\\rightarrow$ Tribe $\\rightarrow$ Genus $\\rightarrow$ Species. (In zoology, Phylum is used instead of Division)."
+        }
+    },
+    {
+        "id": 37,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "An important criterion for modern day classification is",
+            "options": {
+                "a": "resemblances in morphology",
+                "b": "anatomical and physiological traits",
+                "c": "breeding habits",
+                "d": "presence or absence of notochord"
+            },
+            "year": 1991,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Modern-day classification is new systematics or biosystematics which includes all the characteristics of organisms gathered from the study of different sections like physiology, ecology, anatomy, biochemistry, and cytology."
+        }
+    },
+    {
+        "id": 38,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Linnaeus evolved a system of nomenclature called",
+            "options": {
+                "a": "mononomial",
+                "b": "vernacular",
+                "c": "binomial",
+                "d": "polynomial"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "A system for classification was developed by Carolus Linnaeus known as \"Binomial nomenclature.\" This system provides organisms with appropriate and distinct names consisting of two words, the generic name and the specific epithet. The first scientific attempt to name the organism was polynomial nomenclature which consisted of a number of words."
+        }
+    },
+    {
+        "id": 39,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Basic unit or smallest taxon of taxonomy/classification is",
+            "options": {
+                "a": "species",
+                "b": "kingdom",
+                "c": "family",
+                "d": "variety"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Species, the basic unit for understanding taxonomy, occupies a key position. It is defined as a dynamic genetically distinct group of organisms, which resemble each other in all respects and freely interbreed among themselves to produce fertile offsprings."
+        }
+    },
+    {
+        "id": 40,
+        "topic": "Classification and Taxonomic Categories",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The term \"New Systematics\" was introduced by",
+            "options": {
+                "a": "Bentham and Hooker",
+                "b": "Linnaeus",
+                "c": "Julian Huxley",
+                "d": "A.P. de Candolle"
+            },
+            "year": 1988,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The term \"New Systematics\" was coined by Julian Huxley (1940)."
+        }
+    },
+    {
+        "id": 41,
+        "topic": "Taxonomical Aids",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The contrasting characteristics generally in a pair used for identification of animals in Taxonomic Key are referred to as :",
+            "options": {
+                "a": "Alternate",
+                "b": "Lead",
+                "c": "Couplet",
+                "d": "Doublet"
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The keys are based on the set of contrasting characters in a pair known as a couplet."
+        }
+    },
+    {
+        "id": 42,
+        "topic": "Taxonomical Aids",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following is not a correct statement?",
+            "options": {
+                "a": "Botanical gardens have collection of living plants for reference.",
+                "b": "A museum has collection of photographs of plants and animals",
+                "c": "Key is taxonomic aid for identification of specimens.",
+                "d": "Herbarium houses dried, pressed and preserved plant specimens."
+            },
+            "year": "NEET 2013",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Museums have collections of preserved plant and animal specimens for study and reference (e.g., in jars with preservative solutions or as dry specimens), not primarily photographs. Larger animals like birds and mammals are usually stuffed and preserved, and museums often have collections of skeletons."
+        }
+    },
+    {
+        "id": 43,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Pick up the wrong statement",
+            "options": {
+                "a": "Protista have photosynthetic and heterotrophic modes of nutrition",
+                "b": "Some fungi are edible",
+                "c": "Nuclear membrane is present in Monera",
+                "d": "Cell wall is absent in Animalia"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The kingdom Monera possesses unicellular organisms (e.g - bacteria) having no nuclear membrane."
+        }
+    },
+    {
+        "id": 44,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Five kingdom system of classification suggested by R.H. Whittaker is not based on:",
+            "options": {
+                "a": "Presence or absence of a well defined nucleus.",
+                "b": "Mode of reproduction.",
+                "c": "Mode of nutrition.",
+                "d": "Complexity of body organisation."
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Five kingdom system of classification was proposed by R.H. Whittaker (1969). The five kingdom classification is based on complexity of cell structure, complexity of organisms body, mode of obtaining nutrition, and phylogenetic relationships."
+        }
+    },
+    {
+        "id": 45,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In the five-kingdom system of classification, which single kingdom out of the following can include blue green algae, nitrogen-fixing bacteria and methanogenic archaebacteria?",
+            "options": {
+                "a": "Fungi",
+                "b": "Plantae",
+                "c": "Protista",
+                "d": "Monera"
+            },
+            "year": "1998, 2003",
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Monera is the prokaryotic kingdom that includes bacteria, blue green algae (cyanobacteria) and archae-bacteria (a group of ancient bacteria)."
+        }
+    },
+    {
+        "id": 46,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In five kingdom system, the main basis of classification is",
+            "options": {
+                "a": "structure of nucleus",
+                "b": "mode of nutrition",
+                "c": "structure of cell wall",
+                "d": "asexual reproduction"
+            },
+            "year": null,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "The five kingdom classification is based on complexity of cell structure, complexity of body structure, modes of nutrition, ecological life styles, and phylogenetic relationship."
+        }
+    },
+    {
+        "id": 47,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A system of classification in which a large number of traits are considered, is",
+            "options": {
+                "a": "artificial system",
+                "b": "synthetic system",
+                "c": "natural system",
+                "d": "phylogenetic system"
+            },
+            "year": 1999,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Artificial system of classification is based on comparison of one or a few characters. A system based upon a large number of natural characters or traits is natural system of classification."
+        }
+    },
+    {
+        "id": 48,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Phylogenetic classification is based on",
+            "options": {
+                "a": "utilitarian system",
+                "b": "habits",
+                "c": "overall similarities",
+                "d": "common evolutionary descent"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Phylogenetic system of classification indicates the evolutionary or phylogenetic relationship of organisms. Organisms are classified on the basis of evolutionary sequence and genetic relationship."
+        }
+    },
+    {
+        "id": 49,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Artificial system of classification was first used by",
+            "options": {
+                "a": "Linnaeus",
+                "b": "De Candolle",
+                "c": "Pliny the Elder",
+                "d": "Bentham and Hooker"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Pliny the Elder introduced first artificial system of classification in his book Historia Naturalis. He classified both plants and animals."
+        }
+    },
+    {
+        "id": 50,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "System of classification used by Linnaeus was",
+            "options": {
+                "a": "natural system",
+                "b": "artificial system",
+                "c": "phylogenetic system",
+                "d": "asexual system"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Linnaeus put forward an 'Artificial system' of plant classification which was based on sexual characters. It is commonly also called as sexual system of plant classification."
+        }
+    },
+    {
+        "id": 51,
+        "topic": "Five Kingdom Classification",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Classification given by Bentham and Hooker is",
+            "options": {
+                "a": "artificial",
+                "b": "natural",
+                "c": "phylogenetic",
+                "d": "numerical"
+            },
+            "year": 1988,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "George Bentham and Joseph Dalton Hooker have given Natural system of classification. In this system all the important characteristics of the organisms that provide information regarding their natural relationship are taken into consideration."
+        }
+    },
+    {
+        "id": 52,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "One scientist cultured Cladophora in a suspension of Azotobacter and illuminated the culture by splitting light through a prism. He observed that bacteria accumulated mainly in the region of:",
+            "options": {
+                "a": "Blue and red light",
+                "b": "Violet and green light",
+                "c": "Indigo and green light",
+                "d": "Orange and yellow light"
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Azotobacter is aerobic bacteria. Engelmann used a prism to split light and observed that aerobic bacteria accumulated mainly in the region of blue and red light of the split spectrum thus giving the first action spectrum of photosynthesis."
+        }
+    },
+    {
+        "id": 53,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Match the organisms in column I with habitats in column II.",
+            "options": {
+                "a": "(A)-(ii), (B)-(iv), (C)-(iii), (D)-(i)",
+                "b": "(A)-(iv), (B)-(i), (C)-(iii), (D)-(ii)",
+                "c": "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+                "d": "(A)-(iii), (B)-(iv), (C)-(ii), (D)-(i)"
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Halophiles live in salty areas. Thermoacidophiles are present in hot springs. Methanogens are present in gut of several ruminants. Cyanobacteria can be present in freshwater marine or terrestrial habitat."
+        }
+    },
+    {
+        "id": 54,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which among the following is not a prokaryote?",
+            "options": {
+                "a": "Saccharomyces",
+                "b": "Mycobacterium",
+                "c": "Oscillatoria",
+                "d": "Nostoc"
+            },
+            "year": 2018,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Saccharomyces i.e. yeast is an eukaryote (unicellular fungi). Mycobacterium is a bacterium. Oscillatoria and Nostoc are cyanobacteria."
+        }
+    },
+    {
+        "id": 55,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following are found in extreme saline conditions?",
+            "options": {
+                "a": "Eubacteria",
+                "b": "Cyanobacteria",
+                "c": "Mycobacteria",
+                "d": "Archaeobacteria"
+            },
+            "year": 2017,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Archaebacteria are able to survive in harsh conditions due to the presence of branched lipid chain in cell membrane that reduces fluidity of cell membrane. It includes halophiles which are exclusively found in saline habitats."
+        }
+    },
+    {
+        "id": 56,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following components provides sticky character to the bacterial cell?",
+            "options": {
+                "a": "Nuclear membrane",
+                "b": "Plasma membrane",
+                "c": "Glycocalyx",
+                "d": "Cell wall"
+            },
+            "year": 2017,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Sticky character of the bacterial wall is due to glycocalyx which is rich in glycoproteins."
+        }
+    },
+    {
+        "id": 57,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which among the following are the smallest living cells, known without a definite cell wall, pathogenic to plants as well as animals and can survive without oxygen?",
+            "options": {
+                "a": "Pseudomonas",
+                "b": "Mycoplasma",
+                "c": "Nostoc",
+                "d": "Bacillus"
+            },
+            "year": 2017,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Mycoplasmas are smallest, prokaryotes lacking cell wall and are pleomorphic in nature. These are pathogenic to both plants and animals."
+        }
+    },
+    {
+        "id": 58,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following structures is not found in a prokaryotic cell?",
+            "options": {
+                "a": "Ribosome",
+                "b": "Mesosome",
+                "c": "Plasma membrane",
+                "d": "Nuclear envelope"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Nuclear envelope is not found in a prokaryotic cell."
+        }
+    },
+    {
+        "id": 59,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The structures that help some bacteria to attach to rocks and / or host tissues are:",
+            "options": {
+                "a": "Fimbriae",
+                "b": "Mesosomes",
+                "c": "Holdfast",
+                "d": "Rhizoids"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Fimbriae assist some bacteria in attaching to rocks or host body for obtaining establishment and nutrition."
+        }
+    },
+    {
+        "id": 60,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Archaebacteria differ from eubacteria in:",
+            "options": {
+                "a": "Cell membrane",
+                "b": "Mode of nutrition",
+                "c": "Cell shape",
+                "d": "Mode of reproduction"
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Archaebacteria differ from other bacteria in having a different cell wall structure. They lack peptidoglycan in cell wall and possess a monolayer of branched fatty acids attached to glycerol by ether bonds in their cell membranes."
+        }
+    },
+    {
+        "id": 61,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The motile bacteria are able to move by:",
+            "options": {
+                "a": "Fimbriae",
+                "b": "Flagella",
+                "c": "Cilia",
+                "d": "Pili"
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Motile bacteria have thin filamentous extensions on their cell wall called flagella."
+        }
+    },
+    {
+        "id": 62,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following are likely to be present in deep sea water?",
+            "options": {
+                "a": "Eubacteria",
+                "b": "Blue-green algae",
+                "c": "Saprophytic fungi",
+                "d": "Archaebacteria"
+            },
+            "year": 2013,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Archaebacteria live in some of the most harsh habitats such as extreme salty areas (halophiles), hot springs (thermoacidophiles) and marshy areas (methanogens) and in deep sea water."
+        }
+    },
+    {
+        "id": 63,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Specialized cells for fixing atmospheric nitrogen in Nostoc are",
+            "options": {
+                "a": "Akinetes",
+                "b": "Heterocysts",
+                "c": "Hormogonia",
+                "d": "Nodules"
+            },
+            "year": 2013,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Heterocysts are large sized, thick-walled specialised cells which occur in terminal, intercalary or lateral position in filamentous cyanobacteria, e.g., Nostoc. They have enzyme nitrogenase and are specialised to perform biological nitrogen fixation."
+        }
+    },
+    {
+        "id": 64,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The most abundant prokaryotes helpful to humans in making curd from milk and in production of antibiotics are the ones categorised as:",
+            "options": {
+                "a": "Cyanobacteria",
+                "b": "Archaebacteria",
+                "c": "Chemosynthetic autotrophs",
+                "d": "Heterotrophic bacteria"
+            },
+            "year": 2012,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "The most abundant prokaryotes helpful to humans in making curd from milk and in production of antibiotics are the heterotrophic bacteria. Lactobacillus bacteria convert milk into curd."
+        }
+    },
+    {
+        "id": 65,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The cyanobacteria are also referred to as",
+            "options": {
+                "a": "protists",
+                "b": "golden algae",
+                "c": "slime moulds",
+                "d": "blue green algae"
+            },
+            "year": 2012,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Cyanobacteria are also referred as blue green algae, they perform oxygenic photosynthesis."
+        }
+    },
+    {
+        "id": 66,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "How many organisms in the list given below are autotrophs?",
+            "options": {
+                "a": "plasma membrane",
+                "b": "nucleus",
+                "c": "ribosomes",
+                "d": "cell wall"
+            },
+            "year": 2011,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Autotrophs are those organisms that are able to make energy-containing organic molecules from inorganic raw material by using basic sunlight."
+        }
+    },
+    {
+        "id": 67,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Organisms called methanogens are most abundant in a:",
+            "options": {
+                "a": "sulphur rock",
+                "b": "cattle yard",
+                "c": "polluted stream",
+                "d": "hot spring"
+            },
+            "year": 2011,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Methanogens are archaebacteria, abundant in cattle yard and paddy fields."
+        }
+    },
+    {
+        "id": 68,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Bacterial leaf blight of rice is caused by a species of",
+            "options": {
+                "a": "Xanthomonas",
+                "b": "Pseudomonas",
+                "c": "Alternaria",
+                "d": "Erwinia"
+            },
+            "year": 2008,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Bacterial leaf blight of rice is caused by a species of Xanthomonas. Mature rice plant are infected by these bacteria."
+        }
+    },
+    {
+        "id": 69,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In the light of recent classification of living organisms into three domains of life (bacteria, archaea and eukarya), which one of the following statements is true about archaea?",
+            "options": {
+                "a": "Archaea resemble eukarya in all respects",
+                "b": "Archaea have some novel features that are absent in other prokaryotes and eukaryotes",
+                "c": "Archaea completely differ from both prokaryotes and eukaryotes",
+                "d": "Archaea completely differ from prokaryotes"
+            },
+            "year": 2008,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Archaea have some novel features that are absent in other prokaryotes and eukaryotes."
+        }
+    },
+    {
+        "id": 70,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Thermococcus, Methanococcus and Methanobacterium exemplify:",
+            "options": {
+                "a": "Archaebacteria that contain protein homologous to eukaryotic core histones",
+                "b": "Archaebacteria that lack any histones resembling those found in eukaryotes but whose DNA is negatively supercoiled",
+                "c": "Bacteria whose DNA is relaxed or positively supercoiled but which have a cytoskeleton as well as mitochondria",
+                "d": "Bacteria that contain a cytoskeleton and ribosomes"
+            },
+            "year": 2008,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Thermococcus, Methanococcus and Methanobacterium exemplify archaebacteria that contain protein homologous to eukaryotic core histones."
+        }
+    },
+    {
+        "id": 71,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following statements about mycoplasma is wrong?",
+            "options": {
+                "a": "They are pleomorphic",
+                "b": "They are sensitive to penicillin",
+                "c": "They cause diseases in plants",
+                "d": "They are also called PPLO"
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Mycoplasma are not sensitive to penicillin."
+        }
+    },
+    {
+        "id": 72,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In which of the animals dimorphic nucleus is found?",
+            "options": {
+                "a": "Amoeba proteus",
+                "b": "Trypanosoma gambiense",
+                "c": "Plasmodium vivax",
+                "d": "Paramecium caudatum"
+            },
+            "year": 2005,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Paramecium has two types of nucleus, a larger macronucleus involved with the vegetative activities and a smaller involved with reproduction."
+        }
+    },
+    {
+        "id": 73,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The most throughly studied fact of the known bacteria-plant interactions is the",
+            "options": {
+                "a": "cyanobacterial symbiosis with some aquatic ferns",
+                "b": "gall formation on certain angiosperms by Agrobacterium",
+                "c": "nodulation of Sesbania stems by nitrogen fixing bacteria",
+                "d": "plant growth stimulation by phosphate-solubilising bacteria"
+            },
+            "year": 2004,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "This phenomenon has been successfully used in genetic engineering to produce disease resistant varieties of plants."
+        }
+    },
+    {
+        "id": 74,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The chief advantage of encystment to an Amoeba is",
+            "options": {
+                "a": "the chance to get rid of accumulated waste products",
+                "b": "the ability to survive during adverse physical conditions",
+                "c": "the ability to live for sometime without ingesting food",
+                "d": "protection from parasites and predators"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Encystment enables the zygote to survive under adverse or unfavourable conditions wherein it lies dormant."
+        }
+    },
+    {
+        "id": 75,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which bacteria is utilized in gober gas plant?",
+            "options": {
+                "a": "Methanogens",
+                "b": "Nitrifying bacteria",
+                "c": "Ammonifying bacteria",
+                "d": "Denitrifying bacteria"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Methanobacillus (methanogen) occurs in marshes and also in dung. It produces CH4 gas under anaerobic condition and is utilized in gobar gas plant."
+        }
+    },
+    {
+        "id": 76,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which statement is correct for bacterial transduction?",
+            "options": {
+                "a": "Transfer of some genes from one bacteria to another bacteria through virus",
+                "b": "Transfer of genes from one bacteria to another bacteria by conjugation",
+                "c": "Bacteria obtains its DNA directly",
+                "d": "Bacteria obtains its DNA from other external source"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Transduction is virus mediated gene transfer in bacteria."
+        }
+    },
+    {
+        "id": 77,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "What is true for cyanobacteria?",
+            "options": {
+                "a": "Oxygenic with nitrogenase",
+                "b": "Oxygenic without nitrogenase",
+                "c": "Non-oxygenic with nitrogen",
+                "d": "Non-oxygenic without nitrogenase"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Cyanobacteria are oxygenic photoautotroph. Many members perform nitrogen fixation."
+        }
+    },
+    {
+        "id": 78,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "What is true for archaebacteria?",
+            "options": {
+                "a": "All halophiles",
+                "b": "All photosynthetic",
+                "c": "All fossils",
+                "d": "Oldest living beings"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Archaebacteria are the most ancient and halogenous group of bacteria and are called living fossils."
+        }
+    },
+    {
+        "id": 79,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The main difference in Gram (+)ve and Gram (-)ve bacteria resides in their",
+            "options": {
+                "a": "cell wall",
+                "b": "cell membrane",
+                "c": "cytoplasm",
+                "d": "flagella"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Gram +(ve) and Gram \u00e2\u20ac\u201c(ve) bacteria are separated on the basis of their cell wall composition."
+        }
+    },
+    {
+        "id": 80,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Photosynthetic bacteria have pigments in",
+            "options": {
+                "a": "leucoplasts",
+                "b": "chloroplasts",
+                "c": "chromoplasts",
+                "d": "chromatophores"
+            },
+            "year": 1999,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Chromatophores are internal membrane systems present in photosynthetic prokaryotes. These develop as membrane lined sacs or thylakoids from plasma membrane."
+        }
+    },
+    {
+        "id": 81,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In prokaryotes, the genetic material is",
+            "options": {
+                "a": "linear DNA with histones",
+                "b": "circular DNA with histones",
+                "c": "linear DNA without histones",
+                "d": "circular DNA without histones"
+            },
+            "year": 1999,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "In prokaryotes nucleoid consist of double stranded circular DNA without histone protein."
+        }
+    },
+    {
+        "id": 82,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A few organisms are known to grow and multiply at temperatures of 100\u00e2\u20ac\u201c105\u00c2\u00b0C. They belong to",
+            "options": {
+                "a": "marine archaebacteria",
+                "b": "thermophilic sulphur bacteria",
+                "c": "hot-spring blue-green algae (cyanobacteria)",
+                "d": "thermophilic, subaerial fungi"
+            },
+            "year": 1998,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "These are archaebacteria which can tolerate high temperature."
+        }
+    },
+    {
+        "id": 83,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Transfer of genetic information from one bacterium to another in the transduction process is through",
+            "options": {
+                "a": "Conjugation",
+                "b": "Bacteriophages released from the donor bacterial strain",
+                "c": "Another bacterium",
+                "d": "Physical contact between donor and recipient strain"
+            },
+            "year": 1998,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Transfer of genetic information from one bacterium to another by physical contact is called conjugation while if it takes place by some other medium like virus than it is called transduction."
+        }
+    },
+    {
+        "id": 84,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The hereditary material present in the bacterium Escherichia coli is",
+            "options": {
+                "a": "single stranded DNA",
+                "b": "deoxyribose sugar",
+                "c": "double stranded DNA",
+                "d": "single stranded RNA"
+            },
+            "year": 1998,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "In E.coli double stranded DNA is present."
+        }
+    },
+    {
+        "id": 85,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Sex factor in bacteria is",
+            "options": {
+                "a": "Chromosomal replicon",
+                "b": "F-replicon",
+                "c": "RNA",
+                "d": "Sex-pilus"
+            },
+            "year": 1996,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Sex-factor or F-factor in bacteria results in high frequency conjugation. It allows bacteria to produce sex pilus necessary for conjugation."
+        }
+    },
+    {
+        "id": 86,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Temperature tolerance of thermal blue-green algae is due to",
+            "options": {
+                "a": "cell wall structure",
+                "b": "cell organisation",
+                "c": "mitochondrial structure",
+                "d": "homopolar bonds in their proteins"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Some of the blue green algae can tolerate extremes of temperature due to presence of gelatinous sheath, and compactness of protein molecules in protoplasm."
+        }
+    },
+    {
+        "id": 87,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Nitrogen fixer soil organisms belong to",
+            "options": {
+                "a": "mosses",
+                "b": "bacteria",
+                "c": "green algae",
+                "d": "soil fungi"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Only some bacteria and blue green algae (cyanobacteria) have the capacity to fix atmospheric nitrogen."
+        }
+    },
+    {
+        "id": 88,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Entamoeba coli causes",
+            "options": {
+                "a": "Pyrrhoca",
+                "b": "Diarrhoea",
+                "c": "Dysentery",
+                "d": "None"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Entamoeba coli is a non-pathogenic species of Entamoeba that frequently exists as a commensal parasite in the human gastrointestinal tract."
+        }
+    },
+    {
+        "id": 89,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Escherichia coli is used extensively in biological research as it is",
+            "options": {
+                "a": "easily cultured",
+                "b": "easily available",
+                "c": "easy to handle",
+                "d": "easily multiplied in host"
+            },
+            "year": 1993,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Escherichia coli lives as a symbiont in human intestine and is easily cultured."
+        }
+    },
+    {
+        "id": 90,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Genophore/bacterial genome or nucleoid is made of",
+            "options": {
+                "a": "histones and nonhistones",
+                "b": "RNA and histones",
+                "c": "a single double stranded DNA",
+                "d": "a single stranded DNA"
+            },
+            "year": 1993,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The bacterial genome/nucleoid is made of single circular double stranded DNA without histone protein as it is a prokaryotic organisms."
+        }
+    },
+    {
+        "id": 91,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Bacteria lack alternation of generation because there is",
+            "options": {
+                "a": "neither syngamy nor reduction division",
+                "b": "distinct chromosomes are absent",
+                "c": "no conjugation",
+                "d": "no exchange of genetic material"
+            },
+            "year": 1992,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "In bacteria asexual reproduction through binary fission is the most common method of multiplication. Sexual reproduction which comprises of syngamy and meiosis is entirely absent."
+        }
+    },
+    {
+        "id": 92,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Name the organisms which do not derive energy directly or indirectly from sun",
+            "options": {
+                "a": "Chemosynthetic bacteria",
+                "b": "Pathogenic bacteria",
+                "c": "Symbiotic bacteria",
+                "d": "Mould"
+            },
+            "year": 1991,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Chemosynthetic bacteria do not require sunlight as a source of energy either directly or indirectly. The energy for the synthesis of food is obtained by the oxidation of certain inorganic substances present in the medium."
+        }
+    },
+    {
+        "id": 93,
+        "topic": "Monera",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one belongs to monera?",
+            "options": {
+                "a": "Amoeba",
+                "b": "Escherichia",
+                "c": "Gelidium",
+                "d": "Spirogyra"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Whittaker (1969) divided organisms into five kingdoms: Monera, Protista, Plantae, Fungi and Animalia. Kingdom Monera includes all prokaryotes \u00e2\u20ac\u201c Mycoplasma, bacteria, actinomycetes, blue-green algae, archaebacteria, methanogens. Escherichia is bacteria."
+        }
+    },
+    {
+        "id": 94,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following organisms are known as chief producers in the oceans?",
+            "options": {
+                "a": "Dinoflagellates",
+                "b": "Diatoms",
+                "c": "Euglenoids",
+                "d": "Cyanobacteria"
+            },
+            "year": 2018,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Diatoms are the chief producers in some oceans and in some seasons as they are the primary producers and the food chain in marine ecosystem depends on it."
+        }
+    },
+    {
+        "id": 95,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Ciliates differ from all other protozoans in",
+            "options": {
+                "a": "using flagella for locomotion",
+                "b": "having a contractile vacuole for removing excess water",
+                "c": "having two types of nuclei",
+                "d": "using pseudopodia for capturing prey"
+            },
+            "year": 2018,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Ciliates differs from other protozoans in having two types of nuclei. E.g., Paramecium have two types of nuclei i.e. macronucleus & micronucleus."
+        }
+    },
+    {
+        "id": 96,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Chrysophytes, Euglenoids, Dinoflagellates and Slime moulds are included in the kingdom",
+            "options": {
+                "a": "Monera",
+                "b": "Protista",
+                "c": "Fungi",
+                "d": "Animalia"
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "All unicellular eukaryotic organism like diatoms, desmids (chrysophytes), euglenoids, dinoflagellates and slime mould are included in Protista."
+        }
+    },
+    {
+        "id": 97,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In which group of organisms the cell walls form two thin overlapping shells which fit together?",
+            "options": {
+                "a": "Euglenoids",
+                "b": "Dinoflagellates",
+                "c": "Slime moulds",
+                "d": "Chrysophytes"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "In chrysophytes, the cell walls form two thin overlapping shells held together. The body of Diatoms appears like soap box due to overlapping shells."
+        }
+    },
+    {
+        "id": 98,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In the five-kingdom classification, Chlamydomonas and Chlorella have been included in",
+            "options": {
+                "a": "protista",
+                "b": "algae",
+                "c": "plantae",
+                "d": "monera"
+            },
+            "year": 2012,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Chlamydomonas & Chlorella have been included in algae. Algae are chlorophylls, thalloid avascular plants with no cellular differentiation. Algae belong to thallophyta of plant kingdom."
+        }
+    },
+    {
+        "id": 99,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following organisms is not an example of eukaryotic cells?",
+            "options": {
+                "a": "Paramecium caudatum",
+                "b": "Escherichia coli",
+                "c": "Euglena viridis",
+                "d": "Amoeba proteus"
+            },
+            "year": 2011,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "E. coli is a prokaryotic gram negative bacterium."
+        }
+    },
+    {
+        "id": 100,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Single-celled eukaryotes are included in:",
+            "options": {
+                "a": "Protista",
+                "b": "Fungi",
+                "c": "Archae",
+                "d": "Monera"
+            },
+            "year": 2010,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Single celled eukaryotes are included in protista. Protista includes all unicellular and colonial eukaryotes except green and red algae. It is also known as kingdom of unicellular eukaryotes."
+        }
+    },
+    {
+        "id": 101,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following is a slime mould?",
+            "options": {
+                "a": "Physarum",
+                "b": "Thiobacillus",
+                "c": "Anabaena",
+                "d": "Rhizopus"
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Physarum polycephalum belongs to phylum Amoebozoa, infraphylum Mycetozoa, and class Myxogastrea. P. polycephalum, often referred to as the 'many-headed slime,' is a slime mold."
+        }
+    },
+    {
+        "id": 102,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The thalloid body of a slime mould (Myxomycetes) is known as",
+            "options": {
+                "a": "plasmodium",
+                "b": "fruiting body",
+                "c": "mycelium",
+                "d": "protonema"
+            },
+            "year": 2006,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "The thalloid body of slime moulds is made up of multinucleated cell which lacks septa in between and hence it is a multinucleated single celled mass called plasmodium."
+        }
+    },
+    {
+        "id": 103,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Auxopores and hormocysts are formed, respectively, by:",
+            "options": {
+                "a": "Some diatoms and several cyanobacteria",
+                "b": "Some cyanobacteria and diatoms",
+                "c": "Several cyanobacteria and several diatoms",
+                "d": "Several diatoms and a few cyanobacteria"
+            },
+            "year": 2005,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Binary fission in diatoms reduces the size of most daughters which is corrected through the development of auxospores. In some filamentous cyanobacterial forms unisexual reproduction occurs by hormogonia (hormocysts)."
+        }
+    },
+    {
+        "id": 104,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In Amoeba and Paramecium osmoregulation occurs through",
+            "options": {
+                "a": "pseudopodia",
+                "b": "nucleus",
+                "c": "contractile vacuole",
+                "d": "general surface"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Contractile vacuole in Amoeba and Paramecium maintain the water balance of the cell. This is known as osmoregulation."
+        }
+    },
+    {
+        "id": 105,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following organism possesses characteristics of both a plant and an animal?",
+            "options": {
+                "a": "Bacteria",
+                "b": "Euglena",
+                "c": "Mycoplasma",
+                "d": "Paramecium"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "The Euglena is an organism, which possesses both the characteristics of plants and animals, as it can move with a flagella and also contains chlorophyll. Its nutrition is mixotrophic."
+        }
+    },
+    {
+        "id": 106,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The function of contractile vacuole, in protozoa, is",
+            "options": {
+                "a": "locomotion",
+                "b": "food digestion",
+                "c": "osmoregulation",
+                "d": "reproduction"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "In protozoa, the function of contractile vacuole is the removal of excretory substances, carbon dioxide etc. It is very essential to regulate water content i.e., osmoregulation."
+        }
+    },
+    {
+        "id": 107,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Macro and micronucleus are the characteristic feature of",
+            "options": {
+                "a": "Paramecium and Vorticella",
+                "b": "Opelina and Nicothisius",
+                "c": "Hydra and Ballantidium",
+                "d": "Vorticella and Nicothirus"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "The macronucleus lacks nuclear membrane and is formed of trophochromatin. It regulates the metabolic activities of the body. The micronucleus has a definite nuclear membrane and controls the reproductive activities of Paramecium and Vorticella."
+        }
+    },
+    {
+        "id": 108,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Excretion in Amoeba occurs through",
+            "options": {
+                "a": "lobopodia",
+                "b": "uroid portion",
+                "c": "plasma membrane",
+                "d": "contractile vacuole"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "The contractile vacuole is supposed to assist excretion in Amoeba, as its watery contents possess traces of carbon dioxide and urea."
+        }
+    },
+    {
+        "id": 109,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Protistan genome has",
+            "options": {
+                "a": "membrane bound nucleoproteins embedded in cytoplasm",
+                "b": "free nucleic acid aggregates",
+                "c": "gene containing nucleoproteins condensed together in loose mass",
+                "d": "nucleoprotein in direct contact with cell substance"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Protistans are eukaryotes and their genetic material is organised in form of nucleus. DNA is associated with histone protein."
+        }
+    },
+    {
+        "id": 110,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Protists obtain food as",
+            "options": {
+                "a": "photosynthesis, symbionts and holotrophs",
+                "b": "photosynthesis",
+                "c": "chemosynthesisers",
+                "d": "holotrophs"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Members of Kingdom Protista have diverse mode of nutrition. They are photosynthetic, saprophytic, parasitic and ingestive. They are major heterotrophs."
+        }
+    },
+    {
+        "id": 111,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Protista includes",
+            "options": {
+                "a": "heterotrophs",
+                "b": "chemoheterotrophs",
+                "c": "chemoautotrophs",
+                "d": "all the above"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Kingdom Protista includes flagellates (eugenophyceae), diatoms, dinoflagellates, slime moulds, sarcodines, ciliates, sporozoans. They have photosynthetic, chemotrophic, heterotropic mode of nutrition."
+        }
+    },
+    {
+        "id": 112,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "African sleeping sickness is due to",
+            "options": {
+                "a": "Plasmodium vivax transmitted by Tse tse fly",
+                "b": "Trypanosoma lewsii transmitted by Bed Bug",
+                "c": "Trypanosoma gambiense transmitted by Glossina palpalis",
+                "d": "Entamoeba gingivalis spread by Housefly"
+            },
+            "year": 1991,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "African sleeping sickness disease also called as trypanosomiasis is common in western and central parts of African continent. The disease is caused by parasite Trypanosoma gambiense of class zooflagellata. The parasite is transmitted through bite of Tse-Tse fly (vector Glossina palpalis)."
+        }
+    },
+    {
+        "id": 113,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Genetic information in Paramecium is contained in",
+            "options": {
+                "a": "micronucleus",
+                "b": "macronucleus",
+                "c": "both micronucleus and macronucleus",
+                "d": "mitochondria"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Paramecium has two nuclei. Micronucleus is small having two sets of chromosomes (diploid) and is concerned with reproduction i.e. stores genetic information. Macronucleus is larger having many sets of chromosomes and is concerned with functioning of the cell."
+        }
+    },
+    {
+        "id": 114,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which is true about Trypanosoma?",
+            "options": {
+                "a": "Polymorphic",
+                "b": "Monogenetic",
+                "c": "Facultative Parasite",
+                "d": "Non-pathogenic"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Trypanosoma is polymorphic i.e. it exists in different forms in the successive stages of its life cycle. These are Leishmania, Leptomonad, Criutidial and trypanosomal stages."
+        }
+    },
+    {
+        "id": 115,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Plasmodium, the malarial parasite, belongs to class",
+            "options": {
+                "a": "Sarcodina",
+                "b": "Ciliata",
+                "c": "Sporozoa",
+                "d": "Dinophyceae"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Plasmodium belongs to class Sporozoa of protozoan protists. It is an endoparasite lacking any locomotory structure and contractile vacules. It reproduces through spore formation."
+        }
+    },
+    {
+        "id": 116,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The causal organism for African sleeping sickness is",
+            "options": {
+                "a": "Trypanosoma cruzi",
+                "b": "T. rhodesiense",
+                "c": "T. tangela",
+                "d": "T. gambiense"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "African sleeping sickness disease also called trypanosomiasis, that is common in Africa which is caused by parasite, Trypanosoma gambiense. The parasite is transmitted by Tse-Tse fly (Glossina palpalis)."
+        }
+    },
+    {
+        "id": 117,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The vector for sleeping sickness is",
+            "options": {
+                "a": "House fly",
+                "b": "Tse-Tse fly",
+                "c": "Sand fly",
+                "d": "Fruit fly"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Vector for sleeping sickness is Tse-Tse fly (Glossina palpalis). The parasite Trypanosoma is transmitted through the bite of this fly."
+        }
+    },
+    {
+        "id": 118,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Trypanosoma belongs to class",
+            "options": {
+                "a": "Sarcodina",
+                "b": "Zooflagellata",
+                "c": "Ciliata",
+                "d": "Sporozoa"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Zooflagellata of Protozoan Protista. They have flagella and heterotrophic (Parasitic) mode of nutrition."
+        }
+    },
+    {
+        "id": 119,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A bite of Tse-Tse fly may pass to humans",
+            "options": {
+                "a": "Leishmania donovani",
+                "b": "Trypanosoma gambiense",
+                "c": "Entamoeba histolytica",
+                "d": "Plasmodium vivax"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Tse-Tse fly is vector of sleeping sickness disease and it transmits Trypanosoma gambiense through its bite."
+        }
+    },
+    {
+        "id": 120,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The infective stage of malarial parasite Plasmodium that enters human body is",
+            "options": {
+                "a": "merozoite",
+                "b": "sporozoite",
+                "c": "trophozoite",
+                "d": "minuta form"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "The infective stage of Plasmodium that enters human blood is sporozoite."
+        }
+    },
+    {
+        "id": 121,
+        "topic": "Protista",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "What is common about Trypanosoma, Noctiluca, Monocystis and Giardia?",
+            "options": {
+                "a": "They have flagella",
+                "b": "They produce spores",
+                "c": "These are all parasites",
+                "d": "These are all unicellular protists"
+            },
+            "year": 2006,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Trypanosoma, Noctiluca, Monocystis & Giardia are unicellular protists i.e. unicellular eukaryotes."
+        }
+    },
+    {
+        "id": 122,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following statements is incorrect?",
+            "options": {
+                "a": "Morels and truffles are edible delicacies.",
+                "b": "Claviceps is a source of many alkaloids and LSD.",
+                "c": "Conidia are produced exogenously and ascospores endogenously.",
+                "d": "Yeasts have filamentous bodies with long thread-like hyphae."
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Yeast is an unicellular sac fungi. It lacks filamentous structure or hyphae."
+        }
+    },
+    {
+        "id": 123,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "One of the major components of cell wall of most fungi is",
+            "options": {
+                "a": "Chitin",
+                "b": "Peptidoglycan",
+                "c": "Cellulose",
+                "d": "Hemicellulose"
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "A cell wall is a rigid structural layer, which provides protection and structural support to the cells. In fungi, the cell wall is composed of strong covalent linkages of chitin, glucans and glycoproteins."
+        }
+    },
+    {
+        "id": 124,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following statements is wrong?",
+            "options": {
+                "a": "Cyanobacteria are also called blue-green algae",
+                "b": "Golden algae are also called desmids",
+                "c": "Eubacteria are also called false bacteria",
+                "d": "Phycomycetes are also called algal fungi"
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Eubacteria are the true bacteria."
+        }
+    },
+    {
+        "id": 125,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following matches is correct?",
+            "options": {
+                "a": "Alternaria - Sexual reproduction absent - Deuteromycetes",
+                "b": "Mucor - Reproduction by Conjugation - Ascomycetes",
+                "c": "Agaricus - Parasitic fungus - Basidiomycetes",
+                "d": "Phytophthora - Aseptate mycelium - Basidiomycetes"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Alternaria belongs to class - Deuteromycetes, which lack sexual reproduction. Asexual reproduction takes place by conidia produced on conidiophores."
+        }
+    },
+    {
+        "id": 126,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "True nucleus is absent in:",
+            "options": {
+                "a": "Mucor",
+                "b": "Vaucheria",
+                "c": "Volvox",
+                "d": "Anabaena"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Anabaena is a cyanobacteria which lack a true nucleus because of absence of nuclear membrane."
+        }
+    },
+    {
+        "id": 127,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The imperfect fungi which are decomposes of litter and help in mineral cycling belong to:",
+            "options": {
+                "a": "Basidiomycetes",
+                "b": "Phycomycetes",
+                "c": "Ascomycetes",
+                "d": "Deuteromycetes"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Class- deuteromycetes comprises of imperfect fungi which play role in decomposition of organic wastes."
+        }
+    },
+    {
+        "id": 128,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Choose the wrong statements:",
+            "options": {
+                "a": "Neurospora is used in the study of biochemical genetics",
+                "b": "Morels and truffles are poisonous mushrooms",
+                "c": "Yeast is unicellular and useful in fermentation",
+                "d": "Penicillium is multicellular and produces antibiotics"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Morel and truffles are used as food and they are members of Ascomycetes fungi."
+        }
+    },
+    {
+        "id": 129,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following fungi contains hallucinogens?",
+            "options": {
+                "a": "Morchella esculenta",
+                "b": "Amanita muscaria",
+                "c": "Neurospora sp.",
+                "d": "Ustilago sp."
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Several mushrooms such as Amanita muscaria, Psilocybe mexicana and Panaeolus spp. secrete hallucinogenic substances like psilocybin and psilocin."
+        }
+    },
+    {
+        "id": 130,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following is true for fungi?",
+            "options": {
+                "a": "They are phagotrophs",
+                "b": "They lack a rigid cell wall",
+                "c": "They are heterotrophs",
+                "d": "They lack nuclear membrane"
+            },
+            "year": 2013,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Fungi lack chlorophyll, hence, they do not prepare their food by photosynthesis. They can grow where organic material is available. So, they are heterotrophs that acquire their nutrient by absorption and store in the form of glycogen."
+        }
+    },
+    {
+        "id": 131,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Membrane-bound organelles are absent in:",
+            "options": {
+                "a": "Saccharomyces",
+                "b": "Streptococcus",
+                "c": "Chlamydomonas",
+                "d": "Plasmodium"
+            },
+            "year": 2010,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Membrane bound organelles are absent in Streptococcus. It is a bacterium that is included under kingdom Monera. Monerans are prokaryotes which lack membrane bound organelles like mitochondria, E.R, Golgi etc."
+        }
+    },
+    {
+        "id": 132,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one is the wrong pairing for the disease and its causal organism?",
+            "options": {
+                "a": "Black rust of wheat - Puccinia graminis",
+                "b": "Loose smut of wheat - Ustilago nuda",
+                "c": "Root-knot of vegetables - Meloidogyne sp",
+                "d": "Late blight of potato - Alternaria solani"
+            },
+            "year": 2009,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Late blight is caused by the fungus Phytophthora infestans, not Alternaria solani."
+        }
+    },
+    {
+        "id": 133,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which pair of the following belongs to Basidiomycetes?",
+            "options": {
+                "a": "puffballs and Claviceps",
+                "b": "peziza and stink horns",
+                "c": "Morchella and mushrooms",
+                "d": "birds nest fungi and puffballs"
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "The class Basidiomycetes includes those members that produce their basidia and basidiospores on or in a basidiocarp."
+        }
+    },
+    {
+        "id": 134,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Ergot of rye is caused by a species of",
+            "options": {
+                "a": "Uncinula",
+                "b": "Ustilago",
+                "c": "Claviceps",
+                "d": "Phytophthora"
+            },
+            "year": 2007,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Ergot of Rye is a plant disease that is caused by the fungus Claviceps purpurea."
+        }
+    },
+    {
+        "id": 135,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following environmental conditions are essential for optimum growth of Mucor on a piece of bread?",
+            "options": {
+                "a": "A, D and E only",
+                "b": "B, D and E only",
+                "c": "B, C and F only",
+                "d": "A, C and E only"
+            },
+            "year": 2006,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Mucor is a fungus and most of the fungi require the optimum temperature of about 15-30\u00c2\u00b0C, good moisture content in atmosphere and not very dark and not very lightened place. So Mucor requires a temperature of about 25\u00c2\u00b0C, humidity about 95% and a shady place to grow fully."
+        }
+    },
+    {
+        "id": 136,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Viruses that infect bacteria, multiply and cause their lysis, are called",
+            "options": {
+                "a": "lysozymes",
+                "b": "lipolytic",
+                "c": "lytic",
+                "d": "lysogenic"
+            },
+            "year": 2004,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Viruses that get integrated with the bacterial host genome are called lysogenic. Virus which transmit its DNA into bacterial cell and divide within bacterial cell causing breakdown of bacterial cell wall are called lytic virus."
+        }
+    },
+    {
+        "id": 137,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Mycorrhiza represents",
+            "options": {
+                "a": "antagonism",
+                "b": "endemism",
+                "c": "symbiosis",
+                "d": "parasitism"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Mycorrhiza is a symbiotic association between fungi and roots of higher plants."
+        }
+    },
+    {
+        "id": 138,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following secretes toxins during storage conditions of crop plants?",
+            "options": {
+                "a": "Aspergillus",
+                "b": "Penicillium",
+                "c": "Fusarium",
+                "d": "Colletotrichum"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Aspergillus flavus produces carcinogenic fungus toxin (Aflatoxin) during storage condition of crop plant."
+        }
+    },
+    {
+        "id": 139,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which fungal disease spreads by seed and flowers?",
+            "options": {
+                "a": "Loose smut of wheat",
+                "b": "Corn stunt",
+                "c": "Covered smut of barley",
+                "d": "Soft rot of potato"
+            },
+            "year": 2002,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Ustilago causes loose smut of wheat, as a result the grain and flower get converted into powdered mass."
+        }
+    },
+    {
+        "id": 140,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Plant decomposers are",
+            "options": {
+                "a": "Monera and fungi",
+                "b": "Fungi and plants",
+                "c": "Protista and animalia",
+                "d": "Animalia and monera"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Plant decomposers are bacteria (Kingdom Monera) and fungi."
+        }
+    },
+    {
+        "id": 141,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Adhesive pad of fungi penetrates the host with the help of",
+            "options": {
+                "a": "mechanical pressure and enzymes",
+                "b": "hooks and suckers",
+                "c": "softening by enzymes",
+                "d": "only by mechanical pressure"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "The fungal hyphae secrete enzymes which convert insoluble complex food material in the substratum to the soluble ones."
+        }
+    },
+    {
+        "id": 142,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A good green manure in rice fields is",
+            "options": {
+                "a": "Aspergillus",
+                "b": "Azolla",
+                "c": "Salvinia",
+                "d": "Mucor"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Aspergillus is a fungus, Mucor is also a fungus. Azolla harbors blue-green algae Anabaena which fixes N2, increasing fertility."
+        }
+    },
+    {
+        "id": 143,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "In fungi stored food material is",
+            "options": {
+                "a": "glycogen",
+                "b": "starch",
+                "c": "sucrose",
+                "d": "glucose"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Glycogen is a glucosan homopolysaccharide which is the major reserve food of animals, fungi and some bacteria."
+        }
+    },
+    {
+        "id": 144,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Black rust of wheat is caused by",
+            "options": {
+                "a": "Puccinia",
+                "b": "Mucor",
+                "c": "Aspergillus",
+                "d": "Rhizopus"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Black rust of wheat is caused by Puccinia graminis. The symptoms are seen in stem or leaf sheath as brownish spot."
+        }
+    },
+    {
+        "id": 145,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Puccinia forms",
+            "options": {
+                "a": "uredia and aceia on wheat leaves",
+                "b": "uredia and telia on wheat leaves",
+                "c": "uredia and aceia on barberry leaves",
+                "d": "uredia and pycnia on barberry leaves"
+            },
+            "year": 1998,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Puccinia causes black rust of wheat. It completes its life cycle in two hosts-wheat and barberry. Two types of spores are produced on wheat - uredospores and telcutospores."
+        }
+    },
+    {
+        "id": 146,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Mycorrhiza is",
+            "options": {
+                "a": "a symbiotic association of plant roots and certain fungi",
+                "b": "an association of algae with fungi",
+                "c": "a fungus parasitising root system of higher plants",
+                "d": "an association of Rhizobium with the roots of leguminous plants"
+            },
+            "year": 1996,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Association of algae and fungi is referred to as lichen. Symbiotic association of Rhizobium with roots of leguminous plants is referred to as symbiosis. Mycorrhiza is a symbiotic association between fungi and roots of higher plants."
+        }
+    },
+    {
+        "id": 147,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following is not correctly matched?",
+            "options": {
+                "a": "Root knot disease - Meloidogyne javanica",
+                "b": "Smut of bajra - Tolysporium penicillariae",
+                "c": "Covered smut of barley - Ustilago nuda",
+                "d": "Late blight of potato - Phytophthora infestans"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Covered smut of barley is caused by Ustilago hordei, not by Ustilago nuda. This disease is purely externally seed borne."
+        }
+    },
+    {
+        "id": 148,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The chemical compounds produced by the host plants to protect themselves against fungal infection is",
+            "options": {
+                "a": "phytotoxin",
+                "b": "pathogen",
+                "c": "phytoalexins",
+                "d": "hormone"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Phytoalexins are non-specific antibiotic substances produced by plants in response to infection by a fungus."
+        }
+    },
+    {
+        "id": 149,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "White rust disease is caused by",
+            "options": {
+                "a": "Claviceps",
+                "b": "Alternaria",
+                "c": "Phytophthora",
+                "d": "Albugo candida"
+            },
+            "year": 1995,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Albugo candida is an obligate parasite causing white rust on members of family Cruciferae and other hosts."
+        }
+    },
+    {
+        "id": 150,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Ustilago causes plant diseases called smut because",
+            "options": {
+                "a": "they parasitise cereals",
+                "b": "mycelium is black",
+                "c": "they develop sooty masses of spores",
+                "d": "affected parts becomes completely black"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Smut disease is caused by Ustilago species of basidiomycetes fungi. It is characterised by formation of black coloured chlamydospores or telcutospores called smut spore due to which the affected part becomes black."
+        }
+    },
+    {
+        "id": 151,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Claviceps purpurea is causal organism of",
+            "options": {
+                "a": "Smut of Barley",
+                "b": "Rust of Wheat",
+                "c": "Ergot of Rye",
+                "d": "Powdery Midew of Pea"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "The fungus that causes the disease 'Ergot of Rye' is Claviceps purpurea. It contains many poisonous alkaloids. The hallucinogenic drug LSD is extracted from this fungi."
+        }
+    },
+    {
+        "id": 152,
+        "topic": "Fungi",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Absorptive heterotrophic nutrition is exhibited by",
+            "options": {
+                "a": "Algae",
+                "b": "Fungi",
+                "c": "Bryophytes",
+                "d": "Pteridophytes"
+            },
+            "year": 1990,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Fungi are nutritionally saprophytes, which grow on dead and decaying matter. They secrete enzyme to the external medium where digestion takes place and digested food is absorbed by the body surface."
+        }
+    },
+    {
+        "id": 153,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following is correct about viroids?",
+            "options": {
+                "a": "They have free RNA without protein coat",
+                "b": "They have DNA with protein coat",
+                "c": "They have free DNA without protein coat",
+                "d": "They have RNA with protein coat"
+            },
+            "year": 2020,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Viroids have free RNA without protein coat. Viroid, an infectious particle smaller than any of the known viruses, an agent of certain plant diseases. The particle consists only of an extremely small circular RNA molecule, lacking the protein coat of a virus."
+        }
+    },
+    {
+        "id": 154,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following statements is incorrect?",
+            "options": {
+                "a": "Viroids lack a protein coat.",
+                "b": "Viruses are obligate parasites.",
+                "c": "Infective constituent in viruses is the protein coat.",
+                "d": "Prions consist of abnormally folded proteins."
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Infective constituent in viruses is either DNA or RNA, not protein. The simplest form consist of two basic components: nucleic acid and a protein coat."
+        }
+    },
+    {
+        "id": 155,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Mad cow disease in cattle is caused by an organism which has:",
+            "options": {
+                "a": "Free DNA without protein coat",
+                "b": "Inert crystalline structure",
+                "c": "Abnormally folded protein",
+                "d": "Free RNA without protein coat"
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Prions are disease causing agents having abnormally folded proteins. Prions induce other healthy proteins to fold incorrectly, leaving patches of useless debris and holes that turn brains to sponge, resulting in death."
+        }
+    },
+    {
+        "id": 156,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Viroids differ from viruses in having:",
+            "options": {
+                "a": "DNA molecules without protein coat",
+                "b": "RNA molecules with protein coat",
+                "c": "RNA molecules without protein coat",
+                "d": "DNA molecules with protein coat"
+            },
+            "year": 2017,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Viroids in nature are sub-viral agents as infectious RNA particles, without protein coat."
+        }
+    },
+    {
+        "id": 157,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following statements is wrong for viroids?",
+            "options": {
+                "a": "They lack a protein coat",
+                "b": "They are smaller than viruses",
+                "c": "They cause infections",
+                "d": "Their RNA is of high molecular weight"
+            },
+            "year": 2016,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Viroids, the smallest known pathogens, are naked, circular, single-stranded RNA molecules that do not encode protein but autonomously replicate when introduced into host plants."
+        }
+    },
+    {
+        "id": 158,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following shows coiled RNA strand and capsomeres?",
+            "options": {
+                "a": "Polio virus",
+                "b": "Tobacco mosaic virus",
+                "c": "Measles virus",
+                "d": "Retrovirus"
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "TMV (Tobacco Mosaic Virus) is a rod-shaped virus. The rod has a core which contains helically coiled single stranded RNA. There is a protective covering of protein called capsid around the infective part. Capsid consists of small subunits called capsomeres."
+        }
+    },
+    {
+        "id": 159,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Viruses have:",
+            "options": {
+                "a": "DNA enclosed in a protein coat",
+                "b": "Prokaryotic nucleus",
+                "c": "Single chromosome",
+                "d": "Both DNA and RNA"
+            },
+            "year": 2014,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "All viruses are nucleoproteins (Nucleic acid + Protein) in the structure. The nucleic acid (DNA and RNA) is the genetic material. In a particular virus either DNA or RNA is the genetic material. Both are never present in a virus."
+        }
+    },
+    {
+        "id": 160,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Satellite RNAs are present in some",
+            "options": {
+                "a": "Plant viruses",
+                "b": "Viroids",
+                "c": "Prions",
+                "d": "Bacteriophages"
+            },
+            "year": 2013,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Plant viruses often contain parasites of their own, referred to as satellites. Satellite RNAs are dependent on their associated (helper) virus for both replication and encapsidation."
+        }
+    },
+    {
+        "id": 161,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which statement is wrong for viruses?",
+            "options": {
+                "a": "All are parasites",
+                "b": "All of them have helical symmetry",
+                "c": "They have ability to synthesize nucleic acids and proteins",
+                "d": "Antibiotics have no effect on them"
+            },
+            "year": 2012,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "All the viruses are obligate parasite i.e. they remain inert outside the host cell. They have ability to synthesize nucleic acids and proteins by using host cellular machinery. Three shapes are found in viruses helical, cuboidal and binal."
+        }
+    },
+    {
+        "id": 162,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Virus envelope is known as:",
+            "options": {
+                "a": "Capsid",
+                "b": "Virion",
+                "c": "Nucleoprotein",
+                "d": "Core"
+            },
+            "year": 2010,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Virus envelope is known as capsid. The capsid is composed of protein subunits called capsomere."
+        }
+    },
+    {
+        "id": 163,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "The causative agent of mad-cow disease is a",
+            "options": {
+                "a": "Prion",
+                "b": "Worm",
+                "c": "Bacterium",
+                "d": "Virus"
+            },
+            "year": 2006,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Mad cow disease is actually Bovine Spongiform Encephalopathy or BSE. In this disease cattles in Britain got spongy brain & ultimately gradual degradation of nervous system. It is caused by some virus like but nucleic acid devoid proteinaceous particles called prions."
+        }
+    },
+    {
+        "id": 164,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Viruses are no more 'alive' than isolated chromosomes because",
+            "options": {
+                "a": "both require the environment of a cell to replicate",
+                "b": "they require both RNA and DNA",
+                "c": "they both need food molecules",
+                "d": "they both require oxygen for respiration"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Viruses can live only inside the host cell, using their machinery for its own metabolism."
+        }
+    },
+    {
+        "id": 165,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following statements about viruses is correct?",
+            "options": {
+                "a": "Nucleic acid of viruses is known as capsid",
+                "b": "Viruses possess their own metabolic system",
+                "c": "All viruses contain both RNA and DNA",
+                "d": "Viruses are obligate parasites"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Virus is a nucleoprotein entity which becomes active only inside a living cells utilizing the latter machinery for multiplication. Capsid is the protein covering the genetic material."
+        }
+    },
+    {
+        "id": 166,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Tobacco mosaic virus is a tubular filament of size",
+            "options": {
+                "a": "700 \u00c3\u2014 30 nm",
+                "b": "300 \u00c3\u2014 10 nm",
+                "c": "300 \u00c3\u2014 5 nm",
+                "d": "300 \u00c3\u2014 20 nm"
+            },
+            "year": 2003,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Tobacco mosaic virus is 300 nm long and 20 nm in diameter."
+        }
+    },
+    {
+        "id": 167,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Cauliflower mosaic virus contains",
+            "options": {
+                "a": "ss RNA",
+                "b": "ds RNA",
+                "c": "ds DNA",
+                "d": "ss DNA"
+            },
+            "year": 2001,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Cauliflower mosaic virus contains double stranded DNA."
+        }
+    },
+    {
+        "id": 168,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Enzymes are absent in",
+            "options": {
+                "a": "Cyanobacteria",
+                "b": "Viruses",
+                "c": "Algae",
+                "d": "Fungi"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Enzymes are absent in viruses because they are unable to transmit their nucleic acid from one host cell to another."
+        }
+    },
+    {
+        "id": 169,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "A virus can be considered a living organism because it",
+            "options": {
+                "a": "responds to touch stimulus",
+                "b": "respires",
+                "c": "reproduces (inside the host)",
+                "d": "can cause disease"
+            },
+            "year": 2000,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Virus is an ultra microscopic nucleoprotein entity which becomes active only inside a living cell. It resembles living beings due to presence of genetic material and reproduction."
+        }
+    },
+    {
+        "id": 170,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following statements about viruses is correct?",
+            "options": {
+                "a": "Viruses possess their own metabolic system",
+                "b": "Viruses contain either DNA or RNA",
+                "c": "Viruses are facultative parasites",
+                "d": "Viruses are readily killed by antibiotics"
+            },
+            "year": 1997,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Viruses have either DNA or RNA as the genetic material. Viruses having RNA as the genetic material are known as retroviruses."
+        }
+    },
+    {
+        "id": 171,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Influenza virus has",
+            "options": {
+                "a": "DNA",
+                "b": "RNA",
+                "c": "both DNA and RNA",
+                "d": "only proteins and no nucleic acids"
+            },
+            "year": 1996,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Influenza virus is a retrovirus wherein, the genetic material comprises of RNA."
+        }
+    },
+    {
+        "id": 172,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Tobacco Mosaic Virus (TMV) genes are",
+            "options": {
+                "a": "double stranded RNA",
+                "b": "single stranded RNA",
+                "c": "polyribonucleotides",
+                "d": "proteinaceous"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "All viruses are nucleoprotein (Nucleic acid + Protein) in their structure. The nucleic acid (DNA and RNA) is genetic material. In a particular virus either DNA or RNA is genetic material. Single stranded RNA (ss RNA) - Tobacco mosaic virus (TMV)"
+        }
+    },
+    {
+        "id": 173,
+        "topic": "Viruses Viroids and Prions",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Rickettsiae constitute a group under",
+            "options": {
+                "a": "bacteria",
+                "b": "viruses",
+                "c": "independent group between bacteria and viruses",
+                "d": "fungi"
+            },
+            "year": 1994,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Rickettsia are tiny obligate, intracellular parasites found in blood sucking insects like lices, mites, ticks. They have mucopeptide cell wall with DNA as genetic material and are independent entity causing diseases like Q-fever, typhus etc."
+        }
+    },
+    {
+        "id": 174,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following statements is correct?",
+            "options": {
+                "a": "Lichens are not good pollution indicators.",
+                "b": "Lichens do not grow in polluted areas.",
+                "c": "Algal component of lichens is called mycobiont.",
+                "d": "Fungal component of lichens is called phycobiont."
+            },
+            "year": 2019,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Lichen is a symbiosis between different organisms. It is composed of a fungal partner (mycobiont) and one or more photosynthetic partners (photobiont). Lichens are well known as sensitive indicators of air pollution, particularly for sulphur dioxide."
+        }
+    },
+    {
+        "id": 175,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which of the following are most suitable indicators of SO2 pollution in the environment?",
+            "options": {
+                "a": "Conifers",
+                "b": "Algae",
+                "c": "Fungi",
+                "d": "Lichens"
+            },
+            "year": 2015,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Lichens cannot grow in places where sulphur dioxide is present in the environment. They are very sensitive to SO2."
+        }
+    },
+    {
+        "id": 176,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one single organism or the pair of organisms is correctly assigned to its taxonomic group?",
+            "options": {
+                "a": "Paramoecium and Plasmodium belong to the same kingdom as that of Penicillium",
+                "b": "Lichen is a composite organism formed from the symbiotic association of an algae and a protozoan",
+                "c": "Yeast used in making bread and beer is a fungus",
+                "d": "Nostoc and Andbaena are examples of protista"
+            },
+            "year": 2012,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Saccharomyces cervisiae is a yeast used in making bread (Baker's yeast) and commercial production of ethanol. Paramoecium & Plasmodium are of animal kingdom while Penicillium is a fungi. Lichen is composite organism formed from the symbiotic association of an algae and a fungus. Nostoc & Anabaena are examples of kingdom monera."
+        }
+    },
+    {
+        "id": 177,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "There exists a close association between the alga and the fungus within a lichen. The fungus",
+            "options": {
+                "a": "provides protection, anchorage and absorption for the alga",
+                "b": "provides food for the alga",
+                "c": "fixes the atmospheric nitrogen for the alga",
+                "d": "releases oxygen for the alga"
+            },
+            "year": 2005,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "a",
+            "explanation": "Lichens (coined by Theophrastus) are composite or dual organisms which are formed by a fungus partner or mycobiont (mostly ascomycetes) and an algal partner (mostly blue green algae). Fungus forms the body of lichen as well as its attaching and absorbing structures. Algae performs photosynthesis and provides food to the fungus."
+        }
+    },
+    {
+        "id": 178,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Lichens are a well known combination of an alga and a fungus where fungus has",
+            "options": {
+                "a": "a saprophytic relationship with the alga",
+                "b": "an epiphytic relationship with the alga",
+                "c": "a parasitic relationship with the alga",
+                "d": "a symbiotic relationship with the alga"
+            },
+            "year": 2004,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Lichens are composite organisms formed by symbiotic association between a fungus and alga. A saprophyte is an organism feeding on dead, decaying organic matter. Epiphyte is a plant growing over another plant. Parasites live inside their host."
+        }
+    },
+    {
+        "id": 179,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Most of the Lichens consist of",
+            "options": {
+                "a": "blue-green algae and basidomycetes",
+                "b": "blue-green algae and ascomycetes",
+                "c": "red algae and ascomycetes",
+                "d": "brown algae and phycomycetes"
+            },
+            "year": 1997,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "The lichen fungus is typically a member of the Ascomycota, rarely a member of the Basidiomycota. The algal or cyanobacterial cells are photosynthetic, and as in higher plants they reduce atmospheric carbon dioxide into organic carbon sugars to feed both symbionts."
+        }
+    },
+    {
+        "id": 180,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Which one of the following is not true about lichens?",
+            "options": {
+                "a": "Their body is composed of both algal and fungal cells",
+                "b": "Some form food for reindeers in arctic regions",
+                "c": "Some species can be used as pollution indicators",
+                "d": "These grow very fast at the rate of about 2 cm per year"
+            },
+            "year": 1996,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "d",
+            "explanation": "Lichens are composite organisms representing a symbiotic association between fungus and a algae. It can be crustose, foliose and fruticose types. They are the pioneer organisms in a new habitat. Lichens are used as indicator of air pollution."
+        }
+    },
+    {
+        "id": 181,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Organisms which are indicator of SO2 pollution of air",
+            "options": {
+                "a": "Mosses",
+                "b": "Lichens",
+                "c": "Mushrooms",
+                "d": "Puffballs"
+            },
+            "year": 1992,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "b",
+            "explanation": "Lichens are used as indicator of air pollution. It does grow in the environment where pollution level is high, SO2 is strong air pollutant and lichens are very sensitive to SO2."
+        }
+    },
+    {
+        "id": 182,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Lichens indicate SO2 pollution because they",
+            "options": {
+                "a": "show association between algae and fungi",
+                "b": "grow faster than others",
+                "c": "are sensitive to SO2",
+                "d": "flourish in SO2 rich environment"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Lichens 'typically grow in harsh environments in nature. Most lichens, especially epiphytic fruticose species and those containing cyanobacteria, are sensitive to manufactured pollutants. Hence, they have been widely used as pollution indicator organisms."
+        }
+    },
+    {
+        "id": 183,
+        "topic": "Lichens",
+        "instruction": "Answer the following NEET-style MCQ.",
+        "input": {
+            "question": "Lichens indicate SO2 pollution because they",
+            "options": {
+                "a": "show association between algae and fungi",
+                "b": "grow faster than others",
+                "c": "are sensitive to SO2",
+                "d": "flourish in SO2 rich environment"
+            },
+            "year": 1989,
+            "difficulty": "Average"
+        },
+        "response": {
+            "correct_option": "c",
+            "explanation": "Lichens are very sensitive to SO2 pollution and cannot grow in SO2 rich environments, making them good bioindicators of air pollution."
+        }
+    }
+]
